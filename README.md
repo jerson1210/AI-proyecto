@@ -13,7 +13,7 @@ Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnoló
 **Descripción:** El dataset es un conjunto de datos de atributos faciales a gran escala con mas de 200.000 imagenes de celebridades.
 - 10.177 identidades
 - 202.599 imagenes de rostros 
-**Link de descarga:** [Enlace al dataset]( https://es.shaip.com/blog/15-free-image-datasets-to-train-facial-recognition-models/)
+**Link de descarga:** [Enlace al dataset]( [https://es.shaip.com/blog/15-free-image-datasets-to-train-facial-recognition-models/](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 ## Modelos
 - Gaussian Naive Bayes (GNB)
