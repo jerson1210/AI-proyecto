@@ -15,14 +15,14 @@ Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnoló
 **Link de descarga:** [Enlace al dataset](<TU_LINK_AQUI>)
 
 ## Modelos
-- Clasificación Gaussian Naive Bayes  
+- Gaussian Naive Bayes (GNB)
+- Decision Tree Classifier (DT)
+- Random Forest Classifier (RF)
 - Support Vector Classifier (SVC)  
 - Regresores  
 - Redes Neuronales Simples  
 - t-SNE  
-- PCA  
-- Decision Tree  
-- Random Forest  
+- PCA
 
 ## Enlaces
 - **Código:** [Repositorio en GitHub](<TU_LINK_AQUI>)  
