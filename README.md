@@ -3,9 +3,8 @@
 ![Banner](https://github.com/jerson1210/AI-proyecto/blob/main/Deteccion%20(1).png?raw=true) <!-- Reemplaza este enlace por el de tu imagen -->
 
 ## Autores
-- **Diego Alejandro García Barajas** - 2211848  
-- **Jerson Steven Mantilla Ramírez** - 2211849  
-- **Ana Valeria Barreto Téllez** - 2215630  
+- **Diego Alejandro García Barajas** - 2211848 , **Jerson Steven Mantilla Ramírez** - 2211849  , **Ana Valeria Barreto Téllez** - 2215630 
+
 
 ## Objetivo
 Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnológicas.
