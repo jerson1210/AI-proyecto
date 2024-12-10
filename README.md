@@ -30,5 +30,6 @@ Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnoló
 
 ## Enlaces
 - **Código:** [Enlace a Colab](https://colab.research.google.com/drive/1KhgZKqQpQpSlqorkBIDxmlY_O-egLK5q?usp=sharing)  
-- **Video:** [Presentación del Proyecto](<TU_LINK_AQUI>)  
+- **Video:** [Presentación del Proyecto](<TU_LINK_AQUI>)
+- **Diapositivas:** [Diapositivas del Proyecto](https://www.canva.com/design/DAGRsJa1hWE/OHTEAuLy8Dy1TKPh00_3Kg/edit?utm_content=DAGRsJa1hWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
   
