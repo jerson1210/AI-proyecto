@@ -10,7 +10,9 @@
 Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnológicas.
 
 ## Dataset
-**Descripción:** El dataset contiene imágenes etiquetadas utilizadas para entrenar y evaluar los modelos de detección y clasificación.  
+**Descripción:** El dataset es un conjunto de datos de atributos faciales a gran escala con mas de 200.000 imagenes de celebridades.
+- 10.177 identidades
+- 202.599 imagenes de rostros 
 **Link de descarga:** [Enlace al dataset](<TU_LINK_AQUI>)
 
 ## Modelos
