@@ -1,6 +1,6 @@
 # Detección y Clasificación de Rostros para Aplicaciones de Seguridad
 
-![Banner](https://via.placeholder.com/800x300?text=Detección+y+Clasificación+de+Rostros) <!-- Reemplaza este enlace por el de tu imagen -->
+![Banner]([https://via.placeholder.com/800x300?text=Detección+y+Clasificación+de+Rostros](https://github.com/jerson1210/AI-proyecto/blob/main/Deteccion%20(1).png?raw=true)) <!-- Reemplaza este enlace por el de tu imagen -->
 
 ## Autores
 - **Diego Alejandro García Barajas** - 2211848  
