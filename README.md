@@ -29,6 +29,6 @@ Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnoló
 - PCA
 
 ## Enlaces
-- **Código:** [Repositorio en GitHub](<TU_LINK_AQUI>)  
+- **Código:** [Repositorio en GitHub](https://colab.research.google.com/drive/1KhgZKqQpQpSlqorkBIDxmlY_O-egLK5q?usp=sharing)  
 - **Video:** [Presentación del Proyecto](<TU_LINK_AQUI>)  
 - **Repositorio:** [GitHub del Proyecto](<TU_LINK_AQUI>)
