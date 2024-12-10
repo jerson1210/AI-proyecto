@@ -18,10 +18,13 @@ Detectar y clasificar rostros para mejorar la seguridad en aplicaciones tecnoló
 - Gaussian Naive Bayes (GNB)
 - Decision Tree Classifier (DT)
 - Random Forest Classifier (RF)
-- Support Vector Classifier (SVC)  
-- Regresores  
-- Redes Neuronales Simples  
-- t-SNE  
+- Support Vector Classifier (SVC)
+- Decision Tree Regressor (DT)
+- Random Forest Regressor (RF)
+- Support Vector Regressor (SVC)
+- Linear Regressor 
+- DNN
+- T-SNE  
 - PCA
 
 ## Enlaces
